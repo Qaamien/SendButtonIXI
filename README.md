@@ -30,5 +30,6 @@ If you are using ReceivingLedIXI module to receive messages from this module you
 
 KEEP IN MIND THAT THIS MODULE DO NOT USE ANY TAGS, ENCRYPTION OR MAM. SO IF SOMEONE ELSE SEND "ON" MESSAGE TO ADDRESS YOU HAVE CHOSEN, RECEIVER CAN'T KNOW IF THAT MESSAGE COMES FROM YOU OR SOMEONE ELSE IF THAT PERSON USE SAME ADDRESS.
 
-USE AT YOUR OWN RISK!
+# USE AT YOUR OWN RISK!
+
 I am not responsible for any damage caused by running this software. Please use it at your own risk! If you don't understand what you are doing, do not use it. Use this only as template and make your own IXI module if you want to use Raspberry Pi's GPIOs.
