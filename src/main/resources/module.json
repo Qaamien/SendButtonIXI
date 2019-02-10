@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "SendButton.ixi",
+  "main_class": "SendButtonIXI",
+  "description": "Send tx to tangle when buttons are pushed",
+  "repository": "Qaamien/SendButtonIXI",
+  "gui_port": -1,
+  "supported_versions": ["0.4", "0.4.1-SNAPSHOT"]
+}
